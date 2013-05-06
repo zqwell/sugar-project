@@ -3,6 +3,7 @@
 *.dx64fsl
 *.lx32fsl
 *.lx64fsl
+*.ofasl
 *.x86f
 *~
 .#*
